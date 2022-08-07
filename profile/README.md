@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200px" src="./assets/logo-ring-tr.png">
+  <img width="200px" src="https://github.com/GD-APTeam/.github/blob/main/profile/assets/logo-ring-tr.png">
 </div>
 
 # APTeam Organization
