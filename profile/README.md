@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200px" src="assets/logo-ring-tr.png">
+  <img width="200px" src="./assets/logo-ring-tr.png">
 </div>
 
 # APTeam Organization
