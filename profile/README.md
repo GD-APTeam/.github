@@ -8,7 +8,7 @@ A team of professional GD creators, artists, players and programmers.
 
 ## What Does This Organization Do?
 
-This APTeam has its own programming branch. Everything from this branch is managed in this organization.
+The APTeam has its own programming branch. Everything from this branch is managed in this organization.
 
 We mainly focus on the development of utility software, web development and Discord bots. For this we usually use C++, TypeScript and JavaScript.
 
